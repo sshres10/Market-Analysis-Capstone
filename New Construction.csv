@@ -1,0 +1,66 @@
+PROPERTY TYPE,ADDRESS,CITY,STATE OR PROVINCE,ZIP OR POSTAL CODE,PRICE,BEDS,BATHS,LOCATION,SQUARE FEET,LOT SIZE,YEAR BUILT,DAYS ON MARKET,$/SQUARE FEET,STATUS,LATITUDE,LONGITUDE
+Single Family Residential,1807 Colt Ln,Frederick,MD,21702,1100671,6,4.5,KELLERTON,5587,15906,2025,9,197,Active,39.466399,-77.458554
+Single Family Residential,2617 Blazing Star St,Frederick,MD,21702,779990,3,4,BLOOMFIELDS,3998,6528,,14,195,Active,39.478634,-77.416032
+Single Family Residential,2615 Blazing Star St,Frederick,MD,21702,749990,3,4,BLOOMFIELDS,3492,6120,,14,215,Active,39.478491,-77.416059
+Single Family Residential,2613 Blazing Star St,Frederick,MD,21702,709990,2,3,BLOOMFIELDS,3331,6120,,14,213,Active,39.478346,-77.4159391
+Single Family Residential,2622 Herb Shed Way,Frederick,MD,21702,684990,2,3,BLOOMFIELDS,2820,6120,,14,243,Active,39.478543,-77.416514
+Single Family Residential,2002 Mustang Ct,Frederick,MD,21702,849990,4,4.5,TUSCARORA CREEK,4091,6947,2025,25,208,Active,39.472176,-77.427225
+Single Family Residential,500 Slugger Aly Unit WYNDHAM,Frederick,MD,21702,673937,4,2.5,KELLERTON,2329,5662,2025,45,289,Active,39.46746665,-77.45037228
+Single Family Residential,500 Slugger Aly Unit MILTON,Frederick,MD,21702,667500,4,2.5,KELLERTON,2232,5662,2025,45,299,Active,39.46746705,-77.45036596
+Single Family Residential,2600 Kellerton Ave Unit NOTTINGHAM,Frederick,MD,21702,857520,4,2.5,KELLERTON,3600,10890,2025,49,238,Active,39.46798799,-77.45035491
+Single Family Residential,2600 Kellerton Ave Unit DEVONSHIRE,Frederick,MD,21702,879428,4,2.5,KELLERTON,4016,10890,2025,49,219,Active,39.46737461,-77.45054909
+Single Family Residential,2600 Kellerton Ave Unit MAGNOLIA,Frederick,MD,21702,818925,4,2.5,KELLERTON,2953,10890,2025,49,277,Active,39.46742707,-77.45018093
+Single Family Residential,2600 Kellerton Ave Unit SAVANNAH,Frederick,MD,21702,812798,4,2.5,KELLERTON,2748,10890,2025,49,296,Active,39.46760298,-77.4505986
+Single Family Residential,471 Hanson St,Frederick,MD,21701,764810,5,5.5,RENN QUARTER,3642,4000,2025,49,210,Active,39.417944,-77.389589
+Single Family Residential,10225-B Bethel Rd,Frederick,MD,21702,929800,4,2.5,Frederick,,310147,2025,58,,Active,39.517664,-77.435331
+Single Family Residential,473 Hanson St,Frederick,MD,21701,714000,5,5,RENN QUARTER,3213,4000,2025,60,222,Active,39.418033,-77.389693
+Single Family Residential,472 Herringbone Way,Frederick,MD,21701,724990,5,5,RENN QUARTER,3213,4000,2025,60,226,Active,39.418247,-77.389339
+Single Family Residential,475 Hanson St,Frederick,MD,21701,709990,5,5,RENN QUARTER,3213,4000,2025,60,221,Active,39.418126,-77.389793
+Single Family Residential,TBB Mustang Ct Unit EMORY II,Frederick,MD,21702,754990,4,2.5,TUSCARORA CREEK,4205,6098,2025,78,180,Active,39.4713949,-77.4387792
+Single Family Residential,TBB Reagans Rd Unit REGENT II,Frederick,MD,21702,682490,3,2.5,TUSCARORA CREEK,3650,6098,2025,78,187,Active,39.47208835,-77.43043508
+Single Family Residential,TBB Mustang Ct Unit COLTON II,Frederick,MD,21702,709990,4,2.5,TUSCARORA CREEK,3485,6098,2025,79,204,Active,39.4720072,-77.42881322
+Single Family Residential,TBB Reagans Rd Unit NEW HAVEN II,Frederick,MD,21702,672490,4,2.5,TUSCARORA CREEK,3442,6098,2025,79,195,Active,39.47207712,-77.43027873
+Single Family Residential,476 Herringbone Way,Frederick,MD,21701,717346,5,5,RENN QUARTER,3213,4000,2025,90,223,Active,39.418434,-77.389535
+Single Family Residential,8847 Indian Springs Rd,Frederick,MD,21702,994162,4,3.5,INDIAN RIDGE,3127,148104,2025,171,318,Active,39.4801327,-77.4691975
+Single Family Residential,5908 Sleepy Hollow Dr,Frederick,MD,21702,1190000,4,4.5,Frederick,3680,121968,2024,214,323,Active,39.447935,-77.463353
+Single Family Residential,7172A Meadowbrooke Dr,Frederick,MD,21702,1125000,4,4.5,Frederick,4225,361548,2024,304,266,Active,39.46994,-77.423007
+Single Family Residential,4354 Brubaker Way Unit (LOT 4),Ijamsville,MD,21754,998000,4,3.5,Ijamsville,2611,40075,2024,471,382,Active,39.3544473,-77.3566692
+Single Family Residential,Campbell Hill Way,Frederick,MD,21702,619990,4,2.5,Frederick,3133,,2025,52,198,Active,39.43992233,-77.45711517
+Single Family Residential,Albright Homesite Special Plan,Frederick,MD,21702,674990,2,3,Frederick,2820,,,43,239,Active,39.476987,-77.414785
+Single Family Residential,Albright Plan,Frederick,MD,21702,684990,2,3,Frederick,2820,,,45,243,Active,39.476987,-77.414785
+Single Family Residential,Wyndham Plan,Frederick,MD,21702,673937,4,2.5,Frederick,2329,,,48,289,Active,39.462763,-77.447993
+Single Family Residential,Milton Plan,Frederick,MD,21702,667500,4,2.5,Frederick,2232,,,48,299,Active,39.462763,-77.447993
+Single Family Residential,Devonshire Plan,Frederick,MD,21702,879427,4,2.5,Frederick,4016,,,62,219,Active,39.464651,-77.453051
+Single Family Residential,Arcadia Plan,Frederick,MD,21702,803899,3,2,Frederick,1982,,,62,406,Active,39.464448,-77.452627
+Single Family Residential,Sebastian Plan,Frederick,MD,21702,813418,4,2.5,Frederick,2701,,,62,301,Active,39.464651,-77.453051
+Single Family Residential,Augusta Plan,Frederick,MD,21702,824550,4,2.5,Frederick,2789,,,62,296,Active,39.464651,-77.453051
+Single Family Residential,Covington Plan,Frederick,MD,21702,826106,4,2.5,Frederick,3405,,,62,243,Active,39.464651,-77.453051
+Single Family Residential,Magnolia Plan,Frederick,MD,21702,818925,4,2.5,Frederick,2953,,,62,277,Active,39.464651,-77.453051
+Single Family Residential,Savannah Plan,Frederick,MD,21702,812798,4,2.5,Frederick,2748,,,62,296,Active,39.464448,-77.452627
+Single Family Residential,Manchester Plan,Frederick,MD,21702,818550,4,2.5,Frederick,2953,,,62,277,Active,39.464448,-77.452627
+Single Family Residential,Hawthorne Plan,Frederick,MD,21702,851147,4,2.5,Frederick,3646,,,62,233,Active,39.464651,-77.453051
+Single Family Residential,Addison Plan,Frederick,MD,21702,812918,4,2.5,Frederick,2595,,,62,313,Active,39.464448,-77.452627
+Single Family Residential,Nottingham Plan,Frederick,MD,21702,857520,4,2.5,Frederick,3600,,,62,238,Active,39.464651,-77.453051
+Single Family Residential,Lachlan Plan,Frederick,MD,21702,798694,4,2.5,Frederick,2346,,,62,340,Active,39.464448,-77.452627
+Single Family Residential,Parker Plan,Frederick,MD,21702,823689,4,2.5,Frederick,2705,,,62,305,Active,39.464448,-77.452627
+Single Family Residential,Ethan Plan,Frederick,MD,21702,837222,4,2.5,Frederick,3211,,,62,261,Active,39.464651,-77.453051
+Single Family Residential,Seneca Plan,Frederick,MD,21702,714990,4,3.5,Frederick,4362,,,115,164,Active,39.4398234,-77.4570289
+Single Family Residential,Colton II Plan,Frederick,MD,21702,709990,4,2.5,Frederick,3485,,,121,204,Active,39.471905,-77.428969
+Single Family Residential,Emory II Plan,Frederick,MD,21702,754990,4,2.5,Frederick,4205,,,175,180,Active,39.47204208,-77.43031311
+Single Family Residential,Castlerock II Plan,Frederick,MD,21702,714990,4,2.5,Frederick,3696,,,175,193,Active,39.47204208,-77.43031311
+Single Family Residential,New Haven II Plan,Frederick,MD,21702,672490,4,2.5,Frederick,3442,,,175,195,Active,39.47204208,-77.43031311
+Single Family Residential,Regent II Plan,Frederick,MD,21702,682490,3,2.5,Frederick,3650,,,175,187,Active,39.47204208,-77.43031311
+Single Family Residential,Lehigh Plan,Frederick,MD,21702,689990,4,2.5,Frederick,3978,,,248,173,Active,39.4398234,-77.4570289
+Single Family Residential,Hudson Plan,Frederick,MD,21702,664990,4,2.5,Frederick,3571,,,248,186,Active,39.4398234,-77.4570289
+Single Family Residential,Columbia Plan,Frederick,MD,21702,629990,4,2.5,Frederick,3133,,,248,201,Active,39.4398234,-77.4570289
+Single Family Residential,Hampshire Plan,Frederick,MD,21701,824990,5,4,Frederick,3230,,,324,255,Active,39.419306,-77.389269
+Single Family Residential,ALEC Plan,Frederick,MD,21701,717490,4,4,Frederick,2518,,,324,285,Active,39.419306,-77.389269
+Single Family Residential,Summit Plan,Frederick,MD,21701,799990,6,5,Frederick,3112,,,324,257,Active,39.419306,-77.389269
+Single Family Residential,Hadley Plan,Frederick,MD,21701,734990,5,4,Frederick,2628,,,324,280,Active,39.419306,-77.389269
+Single Family Residential,The Beckham Plan,Frederick,MD,21701,949900,6,5.5,Frederick,5247,,,441,181,Active,39.398823,-77.361625
+Single Family Residential,The Hathaway Plan,Frederick,MD,21701,909900,4,5,Frederick,4762,,,441,191,Active,39.398823,-77.361625
+Single Family Residential,The Emerson Plan,Frederick,MD,21701,819900,6,5.5,Frederick,4226,,,441,194,Active,39.398823,-77.361625
+Single Family Residential,The Chapman Plan,Frederick,MD,21701,919900,6,5.5,Frederick,5863,,,441,157,Active,39.398823,-77.361625
+Single Family Residential,Clarkson Plan,Frederick,MD,21702,749990,3,4,Frederick,3492,,,499,215,Active,39.476987,-77.414785
+Single Family Residential,Davenport Plan,Frederick,MD,21702,779990,3,4,Frederick,3998,,,499,195,Active,39.476987,-77.414785
+Single Family Residential,Bennington Plan,Frederick,MD,21702,709990,2,3,Frederick,3331,,,499,213,Active,39.476987,-77.414785
